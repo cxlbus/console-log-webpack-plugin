@@ -1,10 +1,10 @@
 {
   "name": "console-log-webpack-plugin",
   "description": "一个webpack状态的打印插件",
-  "version": "1.1.0",
+  "version": "1.1.2",
   "author": "chen_xiao_234 729225669@qq.com",
   "license": "MIT",
-  "main": "index.js",
+  "main": "dist/index.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/cxlbus/console-log-webpack-plugin"
